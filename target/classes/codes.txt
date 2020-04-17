@@ -1,0 +1,25 @@
+64720,Bates County
+63730,Stoddard County
+64401,Buchanan County
+64830,Jasper County
+64402,Gentry County
+65601,Polk County
+63430,Clark County
+64420,Worth County
+63001,St. Louis County
+64001,Lafayette County
+64620,Davies County
+63732,Perry County
+65606,Oregon County
+64421,Andrew County
+64422,DeKalb County
+64722,Bates County
+64723,Bates County
+63431,Macon County
+64831,McDonald County
+63330,Pike County
+63620,Iron County
+63820,Mississippi County
+64724,St. Clair County
+63432,Scotland County
+63821,Dunklin County
